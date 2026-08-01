@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=400&height=44&lines=aspiring%20to%20be%20better%20%3A)" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=445&height=44&lines=aspiring%20to%20be%20better%20%3A);i%20know%20its%20performative%20lol" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -70,12 +70,6 @@ Computer Science student passionate about Machine Learning, intelligent systems,
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Likhit-Yoking&bg_color=00000000&color=e36209&line=e36209&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
