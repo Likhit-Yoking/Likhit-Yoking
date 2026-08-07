@@ -12,13 +12,6 @@
 
 Computer Science student passionate about Machine Learning, intelligent systems, and scalable software. I build full-stack applications, explore cybersecurity, and enjoy turning research ideas into practical solutions.
 
-🔭 &nbsp;I'm currently working on **Adaptive shortest-path routing research (ABAF-ALT) &amp; an ML-based Network Intrusion Detection System**  
-🌱 &nbsp;I'm currently learning **Deep Learning, Computer Vision, and Cybersecurity**  
-👯 &nbsp;I'm looking to collaborate on **Open-source ML, AI, or Cloud-related projects**  
-🤔 &nbsp;I'm looking for help with **Research papers and Internships :(**  
-💬 &nbsp;Ask me about **C++, Python, Machine Learning, Angular, Azure, and Full-Stack Development**  
-😄 &nbsp;Pronouns: **he/him**
-
 ### 🛠️ Tech Stack
 
 <p align="left">
