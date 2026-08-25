@@ -14,5 +14,5 @@ I like understanding how things work and then trying to build them myself.
 
 ### Connect
 
-* [LinkedIn](www.linkedin.com/in/likhit-chalikonda-52059b321)
+* [LinkedIn](https://www.linkedin.com/in/likhit-chalikonda-52059b321)
 * [Email](mailto:likhit.yoking@gmail.com)
